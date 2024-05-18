@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anant Gupta</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
-<img align = “right” alt = “coding” width = “400” src = "![image](https://github.com/ANNU04/ANNU04/assets/123962899/643e58ad-fe0c-47b0-a3b7-8901638a5f16)">
+<img align = “right” alt = “coding” width = “400” src = "https://github.com/ANNU04/ANNU04/blob/main/coding.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annu04&label=Profile%20views&color=0e75b6&style=flat" alt="annu04" /> </p>
 
