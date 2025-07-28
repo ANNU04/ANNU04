@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annu04&label=Profile%20views&color=0e75b6&style=flat" alt="annu04" /> </p>
 
-- 🔭 I’m currently working on **Stock Analysis Site**
+- 🔭 I’m currently working on **Natural Language Processing**
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **anantg800@gmail.com**
 
